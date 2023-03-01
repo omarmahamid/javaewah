@@ -47,6 +47,13 @@
       <version>4.13.1</version>
       <scope>test</scope>
     </dependency>
+
+    <dependency>
+      <groupId>org.openjdk.jmh</groupId>
+      <artifactId>jmh-generator-annprocess</artifactId>
+      <version>1.34</version>
+    </dependency>
+
   </dependencies>
   <issueManagement>
     <system>GitHub Issue Tracking</system>
